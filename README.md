@@ -19,3 +19,5 @@ Important Notes:
 6) PC Candybars do not have the pcb supports and if you make your own compatible case you can ignore them if you wish, but do note to be compatible with the original candybar you must have these on the pcb.
 
 7) Ortho is only supported on R2 and R2.1, unfortunately R1 isn't supported as the idea didn't come until around R2 running. To know if you are able to support ortho check the inside of the case for the letter 'O' marking 4 standoffs, if you only see 'L' and 'R' you have an R1 and therefore can't use ortho as one of the non-removeable standoffs prevents the layout from being possible. R2 and beyond have 4 removeable standoffs, this is another way to tell as R1 only has 3.
+
+8) Just so you know, the screws used on the candybar are M2x0.4 and must be button head or low profile in order for caps not to hit them when depressed. If you buy replacements for your case this is a very important thing to watch out for.
