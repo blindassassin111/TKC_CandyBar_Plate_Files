@@ -10,7 +10,7 @@ Important Notes:
 
 4) There is currently no first party ortho plate, so any issues or layout discrepencies are to be taken out with the designer of those pcbs and not TKC or me. As well we will not help with what layouts will work, please do the thinking yourself as it is a lot of work on my end to check when someone asks something like this. I will ignore you and TKC has no way of checking without contacting me to check, in which case you will be ignored again.
 
- 5) The USB port is centered between the column 10 and 11 switches.
+5) The USB port is centered between the column 10 and 11 switches.
 
 6) If you design a pcb to work with the case, please note the plate standoffs require a 4.5mm passthrough hole in the pcb and that there are pcb support pegs along the middle of the keyboard to prevent hotswap pcbs from slowly coming off the switches. These pegs need a 2.2mm hole in the pcb. All standoff locations are on the plates, the support pegs are located as follows:
 
